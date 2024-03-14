@@ -1,0 +1,35 @@
+body{
+
+  background-color: #CDE7B0;
+  font-family: "centuryGothic",CenturyGothic,AppleGothic,sans-sans-serif;
+  font-size: 18px;
+  margin: 0;
+
+
+}
+
+
+header{
+
+  background-color: #59594A;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+  color: #FFF;
+  text-transform: uppercase;
+  margin-bottom: 100px;
+}
+
+.home{
+  width: 80%;
+  margin: 0 auto;
+
+}
+div2{
+    width: max-content;
+    margin: auto;
+
+}
+.img3{
+    border-radius: 50%;
+}
